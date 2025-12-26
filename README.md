@@ -78,6 +78,5 @@ Example:
 
 
 
-## 🏗️ Architecture
 
 The project follows **Onion Architecture** principles:
